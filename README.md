@@ -1,2 +1,5 @@
 # hello-world
-Playground
+
+Hello!
+
+This is where we do crazy stuff enjoy.
